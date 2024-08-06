@@ -1,0 +1,35 @@
+   .navbar {
+    display: flex;
+    align-items: center;
+    padding: 1rem 1rem;
+    margin: -8px;
+    background-color: rgb(230, 224, 224);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-bottom: 3px solid green;
+  }
+  
+  .logo {
+    height: 40px;
+    margin-right: 100px;
+  }
+  
+  .navbar-menu {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 1.5rem;
+  }
+  
+  .navbar-item {
+    margin: 0 20px;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .navbar-item a {
+    text-decoration: none;
+    color: black; /* Text color */
+    font-weight: 500;
+  }
+  

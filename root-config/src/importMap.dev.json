@@ -1,0 +1,5 @@
+{
+    "imports": {
+        "about": "http://localhost:2003/src/main.tsx"
+    }
+}
